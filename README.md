@@ -32,8 +32,7 @@ I design and actively maintain a diverse portfolio of extensions, optimized for 
 
 ## 🏆 Proven Expertise & Commercial Success
 
-Before launching the standalone **yalogica** brand, I had engineering expertise on global marketplaces. 
-Under the brand **Avirtum** on Envato (CodeCanyon), I have successfully delivered premium architectural extensions to thousands of businesses worldwide:
+Before launching the standalone Yalogica brand, I gained extensive engineering experience on global marketplaces. Under the brand Avirtum on Envato (CodeCanyon), I successfully delivered premium architectural extensions to thousands of businesses worldwide:
 
 *   Total Sales: **10,000+ Premium Licenses** distributed globally.
 *   Customer Satisfaction: **★ 4.81 / 5.0 Stars** average rating based on hundreds of verified reviews.
