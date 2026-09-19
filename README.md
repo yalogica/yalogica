@@ -1,7 +1,7 @@
 # Hi there, I'm Max 👋
 **Full-Stack Engineer & UI Architect** with 10+ years of expertise in PHP, TypeScript, and SQL. 
 
-I specialize in building high-performance, interactive visual tools and advanced extensions for the WordPress ecosystem. You can find my commercial products under the brand **Avirtum** on CodeCanyon, alongside my open-source and free contributions on WordPress.org.
+I specialize in building high-performance, interactive visual tools and advanced extensions for the WordPress ecosystem. You can find my commercial products on the official yalogica.com website, alongside my open-source and free contributions in the portfolio on WordPress.org.
 
 ---
 
