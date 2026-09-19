@@ -21,12 +21,12 @@ I design and actively maintain a diverse portfolio of extensions, optimized for 
 *   [**HappyVR**](https://wordpress.org/plugins/happyvr/) – A feature-rich visual builder for creating 360° virtual tours with panoramic scenes, custom hotspots, interactive tooltips, and native Gutenberg blocks.
 
 ### 📁 Advanced Media & Content Hierarchy
-*   **MediaCommander** –  An enterprise-level file management solution that brings organized, nestable drag-and-drop folders straight to the WordPress Media Library, Pages, and Posts.
-*   **Post Order Master** – A fast administrative layout manager designed to sort posts, pages, and custom post types effortlessly via an intuitive drag-and-drop interface.
+*   [**MediaCommander**](https://wordpress.org/plugins/mediacommander/) –  An enterprise-level file management solution that brings organized, nestable drag-and-drop folders straight to the WordPress Media Library, Pages, and Posts.
+*   [**Post Order Master**](https://wordpress.org/plugins/post-order-master/) – A fast administrative layout manager designed to sort posts, pages, and custom post types effortlessly via an intuitive drag-and-drop interface.
 
 ### 📊 Visual Thinking & Interactive Graphics
-*   **NinjaDraw** – A dynamic canvas extension enabling beautiful flowcharts, mind maps, and sketches natively inside the WordPress block editor using advanced vector rendering.
-*   **PicPoints** – A highly flexible image map creator that transforms static imagery into interactive, clickable graphics with precise hotspot markers and shapes.
+*   [**NinjaDraw**](https://wordpress.org/plugins/ninjadraw/) – A dynamic canvas extension enabling beautiful flowcharts, mind maps, and sketches natively inside the WordPress block editor using advanced vector rendering.
+*   [**PicPoints**](https://wordpress.org/plugins/picpoints/) – A highly flexible image map creator that transforms static imagery into interactive, clickable graphics with precise hotspot markers and shapes.
 
 ---
 
