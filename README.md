@@ -1,7 +1,7 @@
 # Hi there, I'm Max 👋
 **Full-Stack Engineer & UI Architect** with 10+ years of expertise in PHP, TypeScript, and SQL. 
 
-I specialize in building high-performance, interactive visual tools and advanced extensions for the WordPress ecosystem. You can find my commercial products on my official website, yalogica.com, alongside my free and Freemium contributions in my portfolio on WordPress.org.
+I specialize in high-performance, interactive visual tools and advanced extensions for WordPress. Explore my commercial products at [yalogica.com](https://yalogica.com) and my free/freemium work in my [WordPress.org portfolio](https://profiles.wordpress.org/yalogica/).
 
 ---
 
@@ -47,8 +47,8 @@ This extensive track record guarantees that every open-source repository or prod
 | Destination | Link | Scope |
 | :--- | :--- | :--- |
 | 🌐 **Official Website** | [yalogica.com](https://yalogica.com) | Official hub, detailed documentation, and product releases. |
-| 🛍️ **CodeCanyon Marketplace** | [Avirtum Portfolio](https://codecanyon.net) | My Envato portfolio with elite licensing and commercial support. |
-| 🔌 **WordPress.org Repository** | [Yalogica Profile](https://wordpress.org) | Open-source ecosystem, core contributions, and free community toolsets. |
+| 🛍️ **CodeCanyon Marketplace** | [Avirtum Portfolio](https://codecanyon.net/user/avirtum/portfolio) | My Envato portfolio with elite licensing and commercial support. |
+| 🔌 **WordPress.org Repository** | [Yalogica Profile](https://profiles.wordpress.org/yalogica/) | Open-source ecosystem, core contributions, and free community toolsets. |
 
 
 📬 Feel free to explore my repositories or reach out for collaboration on high-performance WordPress architecture!
