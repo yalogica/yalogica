@@ -1,7 +1,7 @@
 # Hi there, I'm Max 👋
 **Full-Stack Engineer & UI Architect** with 10+ years of expertise in PHP, TypeScript, and SQL. 
 
-I specialize in high-performance, interactive visual tools and advanced extensions for WordPress. Explore my commercial products at [yalogica.com](https://yalogica.com) and my free/freemium work in my [WordPress.org portfolio](https://profiles.wordpress.org/yalogica/).
+I specialize in high-performance, interactive visual tools and advanced extensions for WordPress. Explore my free and commercial products at [yalogica.com](https://yalogica.com) and in my [WordPress.org portfolio](https://profiles.wordpress.org/yalogica/).
 
 ---
 
