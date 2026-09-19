@@ -1,7 +1,7 @@
 # Hi there, I'm Max 👋
 **Full-Stack Engineer & UI Architect** with 10+ years of expertise in PHP, TypeScript, and SQL. 
 
-I specialize in building high-performance, interactive visual tools and advanced extensions for the WordPress ecosystem. You can find my commercial products on the official yalogica.com website, alongside my free and freemius contributions in the portfolio on WordPress.org.
+I specialize in building high-performance, interactive visual tools and advanced extensions for the WordPress ecosystem. You can find my commercial products on my official website, yalogica.com, alongside my free and Freemium contributions in my portfolio on WordPress.org.
 
 ---
 
@@ -18,15 +18,15 @@ I specialize in building high-performance, interactive visual tools and advanced
 I design and actively maintain a diverse portfolio of extensions, optimized for speed, clean UX, and seamless Gutenberg compatibility:
 
 ### 🌐 Immersive & Virtual Tours (360° Panoramas)
-*   **HappyVR** – Feature-rich visual builders for creating 360° virtual tours with panoramic scenes, custom hotspots, interactive tooltips, and native Gutenberg blocks.
+*   **HappyVR** – A feature-rich visual builder for creating 360° virtual tours with panoramic scenes, custom hotspots, interactive tooltips, and native Gutenberg blocks.
 
 ### 📁 Advanced Media & Content Hierarchy
-*   **MediaCommander** – Enterprise-level file management solutions that bring organized, nestable drag-and-drop folders straight to the WordPress Media Library, Pages, and Posts.
-*   **Post Order Master** – Fast administrative layout managers designed to sort posts, pages, and custom post types effortlessly via intuitive drag-and-drop.
+*   **MediaCommander** –  An enterprise-level file management solution that brings organized, nestable drag-and-drop folders straight to the WordPress Media Library, Pages, and Posts.
+*   **Post Order Master** – A fast administrative layout manager designed to sort posts, pages, and custom post types effortlessly via an intuitive drag-and-drop interface.
 
 ### 📊 Visual Thinking & Interactive Graphics
-*   **NinjaDraw** – Dynamic canvas extensions enabling beautiful flowcharts, mind maps, and sketches natively inside the WordPress block editor using advanced vector rendering.
-*   **PicPoints** – Highly flexible image map creators that transform static imagery into interactive, clickable graphics with precise hotspot markers.
+*   **NinjaDraw** – A dynamic canvas extension enabling beautiful flowcharts, mind maps, and sketches natively inside the WordPress block editor using advanced vector rendering.
+*   **PicPoints** – A highly flexible image map creator that transforms static imagery into interactive, clickable graphics with precise hotspot markers and shapes.
 
 ---
 
