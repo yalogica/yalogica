@@ -18,7 +18,7 @@ I specialize in high-performance, interactive visual tools and advanced extensio
 I design and actively maintain a diverse portfolio of extensions, optimized for speed, clean UX, and seamless Gutenberg compatibility:
 
 ### 🌐 Immersive & Virtual Tours (360° Panoramas)
-*   **HappyVR** – A feature-rich visual builder for creating 360° virtual tours with panoramic scenes, custom hotspots, interactive tooltips, and native Gutenberg blocks.
+*   [**HappyVR**](https://wordpress.org/plugins/happyvr/) – A feature-rich visual builder for creating 360° virtual tours with panoramic scenes, custom hotspots, interactive tooltips, and native Gutenberg blocks.
 
 ### 📁 Advanced Media & Content Hierarchy
 *   **MediaCommander** –  An enterprise-level file management solution that brings organized, nestable drag-and-drop folders straight to the WordPress Media Library, Pages, and Posts.
